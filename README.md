@@ -32,19 +32,13 @@
 ---
 
 ## 📤 Sample Output
-
+```cpp
 Hello World
-
 Enter num1: 54
-
 Enter num2: 89
-
 Sum: 143
-
 Difference: -35
-
 Product: 4806
-
 Division: 0.606742
 
 
